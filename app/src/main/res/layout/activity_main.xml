@@ -166,7 +166,8 @@
             android:layout_toRightOf="@id/stat_tip"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/getting"
+            android:text="@string/stop_stat"
+            android:textColor="@color/colorLightRed"
             android:textSize="16sp"
             android:layout_toEndOf="@id/stat_tip" />
     </RelativeLayout>

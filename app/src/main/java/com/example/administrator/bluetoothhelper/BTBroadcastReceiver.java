@@ -31,7 +31,7 @@ public class BTBroadcastReceiver extends BroadcastReceiver {
                 break;
             case BluetoothDevice.ACTION_FOUND:
                 BluetoothDevice device = intent.getParcelableExtra(BluetoothDevice.EXTRA_DEVICE);
-                Log.d("receiver", "发现设备...");
+                Log.d("receiver", "发现设备..." + device.getName());
                 callBack.onScanning(device);
                 break;
         }

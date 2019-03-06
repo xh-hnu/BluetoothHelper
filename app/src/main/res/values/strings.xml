@@ -24,4 +24,6 @@
     <string name="discover_device">可用设备</string>
     <string name="scan">扫描</string>
     <string name="cannel">取消</string>
+    <string name="disconnect">断开</string>
+    <string name="stop_stat">暂停中</string>
 </resources>
