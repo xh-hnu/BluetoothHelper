@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BluetoothHelper</string>
+    <string name="name">设备名称：</string>
+    <string name="disconnected">未连接设备</string>
+    <string name="to_open">打开蓝牙</string>
+    <string name="to_connect">连接</string>
+    <string name="to_disconnect">断开</string>
+    <string name="info_tip">信息:</string>
+    <string name="lux">光强：</string>
+    <string name="lux_value">123lux</string>
+    <string name="temp">温度：</string>
+    <string name="temp_value">23°C</string>
+    <string name="hum">湿度：</string>
+    <string name="hum_value">50%</string>
+    <string name="control">控制：</string>
+    <string name="stop">暂停</string>
+    <string name="get">获取</string>
+    <string name="stat">状态：</string>
+    <string name="getting">获取中</string>
+    <string name="discover_num">发现3个蓝牙设备</string>
+    <string name="scanning">搜索中</string>
+    <string name="pairedDevices">已配对的设备</string>
+    <string name="device_name">device name</string>
+    <string name="discover_device">可用设备</string>
+    <string name="scan">扫描</string>
+    <string name="cannel">取消</string>
+</resources>
